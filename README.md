@@ -5,6 +5,10 @@
 
 
 <img align="right" alt="coding" width="400" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif">
+<p>
+ "**Enthusiastic** and driven Computer Science student with a strong foundation in data structures, algorithms, and AI/ML. Passionate about developing innovative projects, including AI-powered workspace and cyber security solutions. Proficient in Python, IoT, and software development, with a keen interest in building real-world applications. Actively seeking opportunities to apply my skills in problem-solving, software engineering, and AI-driven automation.
+</p>
+
 - 🔭 I’m currently working on **AI & Automation**
 
 - 🌱 I’m currently learning **Django**
