@@ -1,0 +1,16 @@
+<svg viewBox="0 0 500 50" xmlns="http://www.w3.org/2000/svg">
+    <text x="0" y="35" font-size="24" font-family="Arial">
+        I am a <tspan id="role">Software Developer</tspan>
+    </text>
+    <style>
+        @keyframes typing {
+            0% { content: "Software Developer"; }
+            50% { content: "AI Developer"; }
+            100% { content: "Software Developer"; }
+        }
+        #role::after {
+            content: "Software Developer";
+            animation: typing 4s infinite alternate;
+        }
+    </style>
+</svg>
