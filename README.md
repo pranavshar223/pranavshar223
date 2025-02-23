@@ -4,9 +4,11 @@
 ![Typing](https://img.shields.io/badge/I_am-Software_Developer-blue?style=for-the-badge)
 
 
-<img align="right" alt="coding" width="400" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif">
-<p>
- "**Enthusiastic** and driven Computer Science student with a strong foundation in data structures, algorithms, and AI/ML. Passionate about developing innovative projects, including AI-powered workspace and cyber security solutions. Proficient in Python, IoT, and software development, with a keen interest in building real-world applications. Actively seeking opportunities to apply my skills in problem-solving, software engineering, and AI-driven automation.
+<p align="center">
+ <h3>Professional Summary</h3>
+</p>
+<p align="center">
+ "<b>Enthusiastic</b> and <b>driven Computer Science student</b> with a strong foundation in data structures, algorithms, and AI/ML. Passionate about developing innovative projects, including <b>AI-powered workspace</b> and <b>cyber security<b> solutions. Proficient in Python, IoT, and software development, with a keen interest in building real-world applications. Actively seeking opportunities to apply my skills in problem-solving, software engineering, and AI-driven automation.
 </p>
 
 - 🔭 I’m currently working on **AI & Automation**
@@ -14,7 +16,7 @@
 - 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on **AI, Web development,**
-
+<img align="right" alt="coding" width="400" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@pranavs20740294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pranavs20740294" height="30" width="40" /></a>
