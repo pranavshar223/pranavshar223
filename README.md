@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+![Typing](https://img.shields.io/badge/I_am-Software_Developer-blue?style=for-the-badge)
 
 
 <img align="right" alt="coding" width="400" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif">
