@@ -4,10 +4,10 @@
 ![Typing](https://img.shields.io/badge/I_am-Software_Developer-blue?style=for-the-badge)
 
 
-<p align="center">
+<p>
  <h3>Professional Summary</h3>
 </p>
-<p align="center">
+<p>
  "<b>Enthusiastic</b> and <b>driven Computer Science student</b> with a strong foundation in data structures, algorithms, and AI/ML. Passionate about developing innovative projects, including <b>AI-powered workspace</b> and <b>cyber security<b> solutions. Proficient in Python, IoT, and software development, with a keen interest in building real-world applications. Actively seeking opportunities to apply my skills in problem-solving, software engineering, and AI-driven automation.
 </p>
 
